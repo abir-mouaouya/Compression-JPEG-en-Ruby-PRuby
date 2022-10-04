@@ -1,0 +1,12 @@
+************** Compression JPEG **************
+projetDCT : programme de calcul de la matrice DCT
+quantification : programme de calcul de matrice quantifie 
+ZigZag : programme de zigzag 
+RLE : programme de codage RLE 
+compression_jpeg : rassemble tous les étapes de compression . 
+
+************** les exemples ********************
+somme_tab : la somme des deux tableaux par peach
+transpose : programme de transpose d'une matrice avec pmap 
+factoriel : programme de factoriel avec preduce
+combinaison : programme de combinaison avec pcall 
